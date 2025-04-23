@@ -1,4 +1,7 @@
 ## <h1 align="center">What's up I'm Ahmed Osman👋</h1>
+
+![Image](https://github.com/user-attachments/assets/d77db841-69ee-4c6b-95e7-9771d32b7452)
+
 <h3 align="center">I am a DevOps Fanatic studying all things cloud related. Connect with me if you wanna work together!</h3>
 
 <div align="left">
