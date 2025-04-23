@@ -13,7 +13,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmed-osman18) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/ahmed-osman18) 
 
 [![](https://img.shields.io/badge/-@Lowswavy-%23181717?style=flat-square&logo=github)](https://github.com/Lowswavy)
 
