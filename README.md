@@ -1,4 +1,4 @@
-## <h1 align="center">What's up I'm Ahmed Osman👋</h1>
+## *<h1 align="center">What's up I'm Ahmed Osman👋</h1>*
 
 ![Image](https://github.com/user-attachments/assets/a447a6cc-41cb-46a0-9046-b325d325b620)
 
