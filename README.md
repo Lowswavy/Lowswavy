@@ -5,12 +5,7 @@
 <h3 align="center">I am a DevOps Fanatic studying all things cloud related. Connect with me if you wanna work together!</h3>
 
 <div align="left">
-            <a href="https://paypal.me/lowswavy" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="left"
-                />
-            </a>
+           <a href="https://www.buymeacoffee.com/arrmed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
             <br>
             
 
